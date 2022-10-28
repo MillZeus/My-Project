@@ -1,0 +1,9 @@
+{
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.repositoryScanIgnoredFolders": [
+        "node_modules",
+        "git"
+    ]
+}
